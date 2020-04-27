@@ -1,6 +1,6 @@
-# local-storage-vue
+# Simple Task Manager App
 
-Made with Vuetify.
+Made with Vue and Vuetify. Create tasks, store then in your computer and delete the ones completed. Data is stored in Local Storage in your browser.
 
 ## Project setup
 
