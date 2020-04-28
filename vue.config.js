@@ -1,4 +1,4 @@
 module.exports = {
-	transpileDependencies: ['vuetify'],
-	publicPath: '/vue-localstorage/',
+  transpileDependencies: ["vuetify"],
+  publicPath: "/vue-localstorage/",
 };
